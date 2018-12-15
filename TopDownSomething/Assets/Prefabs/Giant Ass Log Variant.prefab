@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1847732855029650620
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1548076553180826, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_Name
+      value: Giant Ass Log Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4375505080590148, guid: e88071c54db955b4397b349545e10f14, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114230465501765842, guid: e88071c54db955b4397b349545e10f14,
+        type: 3}
+      propertyPath: maxHealth
+      value: 
+      objectReference: {fileID: 11400000, guid: 461795e6c8ae3f44db5c27ba72ac2876,
+        type: 2}
+    - target: {fileID: 114230465501765842, guid: e88071c54db955b4397b349545e10f14,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 114230465501765842, guid: e88071c54db955b4397b349545e10f14,
+        type: 3}
+      propertyPath: chaseRadius
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114230465501765842, guid: e88071c54db955b4397b349545e10f14,
+        type: 3}
+      propertyPath: attackRadius
+      value: 3
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e88071c54db955b4397b349545e10f14, type: 3}

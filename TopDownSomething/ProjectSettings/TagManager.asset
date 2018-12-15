@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Colliding Ground
+  - Enemy
+  - Fire
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Colliding Ground
+  - Player
+  - Bullet
+  - Building Collision
+  - Enemy
+  - LogSpawn
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1932102739
+    locked: 0
+  - name: Colliding Ground
+    uniqueID: 163851479
+    locked: 0
+  - name: Player
+    uniqueID: 2312351011
+    locked: 0
+  - name: Enter Transition
+    uniqueID: 3918897607
+    locked: 0
+  - name: Building Collision
+    uniqueID: 1665907833
+    locked: 0
+  - name: Coin
+    uniqueID: 538137011
+    locked: 0
